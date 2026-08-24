@@ -1,0 +1,27 @@
+[
+  {
+    "id": "what-is-linux",
+    "title": "What is Linux — kernel, distros, why it's everywhere",
+    "order": 1
+  },
+  {
+    "id": "what-is-a-shell-and-cli",
+    "title": "What is a shell and CLI",
+    "order": 2
+  },
+  {
+    "id": "why-use-cli-over-gui",
+    "title": "Why use CLI over GUI",
+    "order": 3
+  },
+  {
+    "id": "shell-types",
+    "title": "Shell types: Bourne (sh), C (csh), Z (zsh), Bash (bash) — differences and when to use each",
+    "order": 4
+  },
+  {
+    "id": "how-to-get-a-linux-environment",
+    "title": "How to get a Linux environment — VM, WSL, cloud instance, Docker",
+    "order": 5
+  }
+]

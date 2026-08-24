@@ -1,0 +1,37 @@
+[
+  {
+    "id": "interfaces-and-ip",
+    "title": "Interfaces and IP",
+    "order": 1
+  },
+  {
+    "id": "connectivity-testing",
+    "title": "Connectivity testing",
+    "order": 2
+  },
+  {
+    "id": "dns",
+    "title": "DNS",
+    "order": 3
+  },
+  {
+    "id": "ports-and-sockets",
+    "title": "Ports and sockets",
+    "order": 4
+  },
+  {
+    "id": "firewall",
+    "title": "Firewall",
+    "order": 5
+  },
+  {
+    "id": "ssh",
+    "title": "SSH",
+    "order": 6
+  },
+  {
+    "id": "downloading-and-transferring-files",
+    "title": "Downloading and transferring files",
+    "order": 7
+  }
+]

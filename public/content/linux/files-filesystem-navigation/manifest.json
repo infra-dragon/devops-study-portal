@@ -1,0 +1,22 @@
+[
+  {
+    "id": "how-commands-work",
+    "title": "How commands work",
+    "order": 1
+  },
+  {
+    "id": "filesystem-structure",
+    "title": "Filesystem structure",
+    "order": 2
+  },
+  {
+    "id": "filesystem-navigation",
+    "title": "Filesystem Navigation",
+    "order": 3
+  },
+  {
+    "id": "viewing-file-content",
+    "title": "Viewing file content",
+    "order": 4
+  }
+]

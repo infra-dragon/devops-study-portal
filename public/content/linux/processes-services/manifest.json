@@ -1,0 +1,32 @@
+[
+  {
+    "id": "processes",
+    "title": "Processes",
+    "order": 1
+  },
+  {
+    "id": "signals-and-kill",
+    "title": "Signals and kill",
+    "order": 2
+  },
+  {
+    "id": "background-jobs-and-process-control",
+    "title": "Background jobs and process control",
+    "order": 3
+  },
+  {
+    "id": "systemd-and-services",
+    "title": "systemd and services",
+    "order": 4
+  },
+  {
+    "id": "creating-your-own-systemd-service",
+    "title": "Creating your own systemd service",
+    "order": 5
+  },
+  {
+    "id": "cron-and-scheduling",
+    "title": "Cron and scheduling",
+    "order": 6
+  }
+]

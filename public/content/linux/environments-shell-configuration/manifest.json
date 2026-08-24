@@ -1,0 +1,42 @@
+[
+  {
+    "id": "what-are-environment-variables-and-why-they-matter",
+    "title": "What are environment variables and why they matter",
+    "order": 1
+  },
+  {
+    "id": "export-env-printenv-unset",
+    "title": "export, env, printenv, unset",
+    "order": 2
+  },
+  {
+    "id": "path",
+    "title": "PATH — how command lookup works, how to extend it safely",
+    "order": 3
+  },
+  {
+    "id": "bashrc-vs-bash-profile-vs-profile",
+    "title": ".bashrc vs .bash_profile vs .profile — login vs interactive shells, when each file runs",
+    "order": 4
+  },
+  {
+    "id": "source-reloading-config",
+    "title": "source / . — reloading config in the current shell",
+    "order": 5
+  },
+  {
+    "id": "aliases",
+    "title": "Aliases — defining, persisting, when not to use them",
+    "order": 6
+  },
+  {
+    "id": "shell-options",
+    "title": "Shell options: set -x (debug trace), set -e, shopt",
+    "order": 7
+  },
+  {
+    "id": "terminal-multiplexers",
+    "title": "Terminal multiplexers: tmux / screen — keeping sessions alive over SSH",
+    "order": 8
+  }
+]

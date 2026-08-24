@@ -1,0 +1,74 @@
+[
+  {
+    "id": "introduction",
+    "title": "Introduction",
+    "type": "section",
+    "order": 1
+  },
+  {
+    "id": "files-filesystem-navigation",
+    "title": "Files & Filesystem - Navigation & Viewing",
+    "type": "section",
+    "order": 2
+  },
+  {
+    "id": "files-filesystem-operation",
+    "title": "Files & Filesystem - Operation & Search",
+    "type": "section",
+    "order": 3
+  },
+  {
+    "id": "text-processing",
+    "title": "Text Processing",
+    "type": "section",
+    "order": 4
+  },
+  {
+    "id": "environments-shell-configuration",
+    "title": "Environment & Shell Configuration",
+    "type": "section",
+    "order": 5
+  },
+  {
+    "id": "users-permissions",
+    "title": "Users & Permissions",
+    "type": "section",
+    "order": 6
+  },
+  {
+    "id": "processes-services",
+    "title": "Processes & Services",
+    "type": "section",
+    "order": 7
+  },
+  {
+    "id": "disk-storage-filesystem",
+    "title": "Disk, Storage & Filesystems",
+    "type": "section",
+    "order": 8
+  },
+  {
+    "id": "networking",
+    "title": "Networking",
+    "type": "section",
+    "order": 9
+  },
+  {
+    "id": "package-management",
+    "title": "Package Management",
+    "type": "section",
+    "order": 10
+  },
+  {
+    "id": "shell-scripting",
+    "title": "Shell Scripting",
+    "type": "section",
+    "order": 11
+  },
+  {
+    "id": "system-internals-troubleshooting",
+    "title": "System Internals, Monitoring & Troubleshooting",
+    "type": "section",
+    "order": 12
+  }
+]
