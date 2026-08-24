@@ -5,5 +5,5 @@ import { ghPages } from 'vite-plugin-gh-pages'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/repository-name/', 
+  base: 'https://github.com/infra-dragon/devops-study-portal',
 })
