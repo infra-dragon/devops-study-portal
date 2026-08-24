@@ -1,0 +1,22 @@
+[
+  {
+    "id": "basic-text-tools",
+    "title": "Basic text tools",
+    "order": 1
+  },
+  {
+    "id": "pattern-matching-and-extraction",
+    "title": "Pattern matching and extraction",
+    "order": 2
+  },
+  {
+    "id": "stream-editing-and-transformation",
+    "title": "Stream editing and transformation",
+    "order": 3
+  },
+  {
+    "id": "structured-data",
+    "title": "Structured data",
+    "order": 4
+  }
+]

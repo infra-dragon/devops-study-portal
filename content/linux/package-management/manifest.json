@@ -1,0 +1,22 @@
+[
+  {
+    "id": "concepts",
+    "title": "Concepts",
+    "order": 1
+  },
+  {
+    "id": "rpm-based",
+    "title": "RPM-based (Red Hat / CentOS / Fedora)",
+    "order": 2
+  },
+  {
+    "id": "deb-based",
+    "title": "DEB-based (Debian / Ubuntu)",
+    "order": 3
+  },
+  {
+    "id": "repository-management",
+    "title": "Repository management",
+    "order": 4
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": "script-basics",
+    "title": "Script basics",
+    "order": 1
+  },
+  {
+    "id": "variables-and-data",
+    "title": "Variables and data",
+    "order": 2
+  },
+  {
+    "id": "control-flow",
+    "title": "Control flow",
+    "order": 3
+  },
+  {
+    "id": "functions-and-arguments",
+    "title": "Functions and arguments",
+    "order": 4
+  },
+  {
+    "id": "robustness-and-error-handling",
+    "title": "Robustness and error handling",
+    "order": 5
+  }
+]

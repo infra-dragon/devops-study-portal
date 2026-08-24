@@ -1,0 +1,27 @@
+[
+  {
+    "id": "disks-and-partitions",
+    "title": "Disks and partitions",
+    "order": 1
+  },
+  {
+    "id": "filesystems",
+    "title": "Filesystems",
+    "order": 2
+  },
+  {
+    "id": "mounting",
+    "title": "Mounting",
+    "order": 3
+  },
+  {
+    "id": "lvm",
+    "title": "LVM (Logical Volume Management)",
+    "order": 4
+  },
+  {
+    "id": "swap",
+    "title": "Swap",
+    "order": 5
+  }
+]

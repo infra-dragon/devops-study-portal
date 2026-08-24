@@ -1,0 +1,17 @@
+[
+  {
+    "id": "users-and-groups",
+    "title": "Users and groups",
+    "order": 1
+  },
+  {
+    "id": "file-permissions",
+    "title": "File permissions",
+    "order": 2
+  },
+  {
+    "id": "special-permissions-and-privilege-escalation",
+    "title": "Special permissions and privilege escalation",
+    "order": 3
+  }
+]

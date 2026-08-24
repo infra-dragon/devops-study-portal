@@ -1,0 +1,26 @@
+[
+  {
+    "id": "linux",
+    "title": "Linux",
+    "icon": "🐧",
+    "color": "#e8a020",
+    "type": "topic",
+    "order": 1
+  },
+  {
+    "id": "docker",
+    "title": "Docker",
+    "icon": "🐳",
+    "color": "#2496ed",
+    "type": "topic",
+    "order": 2
+  },
+  {
+    "id": "cheatsheet",
+    "title": "Cheatsheet",
+    "icon": "📋",
+    "color": "#888888",
+    "type": "page",
+    "order": 3
+  }
+]

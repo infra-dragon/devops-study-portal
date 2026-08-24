@@ -1,0 +1,32 @@
+[
+  {
+    "id": "the-linux-kernel-and-boot-process",
+    "title": "The Linux kernel and boot process",
+    "order": 1
+  },
+  {
+    "id": "virtual-filesystems",
+    "title": "Virtual filesystems",
+    "order": 2
+  },
+  {
+    "id": "system-resource-monitoring",
+    "title": "System resource monitoring",
+    "order": 3
+  },
+  {
+    "id": "logging",
+    "title": "Logging",
+    "order": 4
+  },
+  {
+    "id": "performance-tuning",
+    "title": "Performance tuning",
+    "order": 5
+  },
+  {
+    "id": "debugging-and-troubleshooting",
+    "title": "Debugging and troubleshooting",
+    "order": 6
+  }
+]

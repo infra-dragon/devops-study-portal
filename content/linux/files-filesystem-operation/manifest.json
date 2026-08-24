@@ -1,0 +1,32 @@
+[
+  {
+    "id": "file-and-directory-operations",
+    "title": "File and directory operations",
+    "order": 1
+  },
+  {
+    "id": "archiving-and-compression",
+    "title": "Archiving and compression",
+    "order": 2
+  },
+  {
+    "id": "searching-for-files",
+    "title": "Searching for files",
+    "order": 3
+  },
+  {
+    "id": "links",
+    "title": "Links",
+    "order": 4
+  },
+  {
+    "id": "wildcards-and-globbing",
+    "title": "Wildcards and globbing",
+    "order": 5
+  },
+  {
+    "id": "redirection-and-pipes",
+    "title": "Redirection and pipes",
+    "order": 6
+  }
+]
